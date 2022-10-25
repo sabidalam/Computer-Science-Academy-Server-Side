@@ -13,6 +13,12 @@ app.get('/topics', (req, res) => {
     res.send(topics);
 })
 
+app.get('/topic/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedTopic = courses.find(t => t.topic_id === id)
+    res.send(selectedTopic);
+})
+
 app.get('/courses', (req, res) => {
     res.send(courses);
 })
