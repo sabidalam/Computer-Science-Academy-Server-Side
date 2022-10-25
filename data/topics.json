@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Introduction-to-Computer-Science-and-Programming"
+    },
+    {
+        "id": "02",
+        "name": "Introduction-to-c-memory-management-and-c-object-oriented-programming"
+    },
+    {
+        "id": "03",
+        "name": "Introduction-to-Algorithms"
+    },
+    {
+        "id": "04",
+        "name": "Artificial-Intelligence"
+    },
+    {
+        "id": "05",
+        "name": "Database-Internet-and-systems-integration-technologies"
+    },
+    {
+        "id": "06",
+        "name": "Software-Construction"
+    }
+]
