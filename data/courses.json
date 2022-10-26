@@ -10,6 +10,7 @@
         "level": "Undergraduate",
         "name": "Introduction-to-Computer-Science-and-Programming",
         "instructor": "Prof. Eric Grimson",
+        "price": 80,
         "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD2HhHFwdU64o6mH1BfprakNvyNsYsXND87Q&usqp=CAU",
         "details": "This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python™ programming language."
     },
@@ -24,6 +25,7 @@
         "level": "Undergraduate",
         "name": "Introduction-to-C-and-Object-oriented-programming",
         "instructor": "Jean Yang",
+        "price": 100,
         "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GT8qCnKC2jl9lTv_PpYLKyCa9nife_KDgA&usqp=CAU",
         "details": "Ever hang your head in shame after your Python program wasn't as fast as your friend's C program? Ever wish you could use objects without having to use Java? Join us for this fun introduction to C and C++! We will take you through a tour that will start with writing simple C programs, go deep into the caves of C memory manipulation, resurface with an introduction to using C++ classes, dive deeper into advanced C++ class use and the C++ Standard Template Libraries. We'll wrap up by teaching you some tricks of the trade that you may need for tech interviews. We see this as a “C/C++ empowerment” course: we want you to come away understanding why you would want to use C over another language (control over memory, probably for performance reasons),why you would want to use C++ rather than C (objects), and how to be useful in C and C++.This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month."
     },
@@ -38,6 +40,7 @@
         "level": "Undergraduate",
         "name": "Introduction-to-Algorithms",
         "instructor": "Prof. Erik Demaine",
+        "price": 100,
         "thumbnail_url": "https://miro.medium.com/max/900/0*TDgnPm06sS0np--2.jpg",
         "details": "This course is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems."
     },
@@ -52,6 +55,7 @@
         "level": "Graduate",
         "name": "Artificial-Intelligence",
         "instructor": "Prof. Leslie Kaelbling",
+        "price": 200,
         "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
         "details": "This course introduces representations, techniques, and architectures used to build applied systems and to account for intelligence from a computational point of view. This course also explores applications of rule chaining, heuristic search, logic, constraint propagation, constrained search, and other problem-solving paradigms. In addition, it covers applications of decision trees, neural nets, SVMs and other learning paradigms."
     },
@@ -66,6 +70,7 @@
         "level": "Graduate",
         "name": "Database-Internet-and-systems",
         "instructor": "Dr. George Kocur",
+        "price": 150,
         "thumbnail_url": "https://i0.wp.com/iotbusinessnews.com/WordPress/wp-content/uploads/big-data-center.jpg?fit=800%2C360&ssl=1",
         "details": "This course addresses information technology fundamentals, including project management and software processes, data modeling, UML, relational databases and SQL. Topics covered include internet technologies, such as XML, web services, and service-oriented architectures. This course provides an introduction to security and presents the fundamentals of telecommunications and includes a project that involves requirements / design, data model, database implementation, website, security and data network. No prior programming experience required."
     },
@@ -80,6 +85,7 @@
         "level": "Undergraduate",
         "name": "Software-Construction",
         "instructor": "Prof. Robert Miller",
+        "price": 100,
         "thumbnail_url": "https://www.constructionbusinessowner.com/sites/default/files/u27631/64785827_thumbnail_0.jpg",
         "details": "6.005 Software Construction introduces fundamental principles and techniques of software development, i.e., how to write software that is safe from bugs, easy to understand, and ready for change. The course includes problem sets and a final project. Important topics include specifications and invariants; testing; abstract data types; design patterns for object-oriented programming; concurrent programming and concurrency; and functional programming."
     }
